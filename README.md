@@ -7,3 +7,7 @@
 
 ### Output
 `Total Left for the Month: 96.21Gb`
+
+### Disclaimer
+
+- There's no error checking whatsoever - this is just a quick hack for now
